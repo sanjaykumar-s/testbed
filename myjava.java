@@ -1,3 +1,4 @@
+// This is a simple java program
  import java.io.*;
 
 public class myjava 
